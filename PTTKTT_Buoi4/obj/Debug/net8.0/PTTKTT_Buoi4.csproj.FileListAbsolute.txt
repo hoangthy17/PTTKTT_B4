@@ -1,0 +1,14 @@
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\bin\Debug\net8.0\PTTKTT_Buoi4.exe
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\bin\Debug\net8.0\PTTKTT_Buoi4.deps.json
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\bin\Debug\net8.0\PTTKTT_Buoi4.runtimeconfig.json
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\bin\Debug\net8.0\PTTKTT_Buoi4.dll
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\bin\Debug\net8.0\PTTKTT_Buoi4.pdb
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\PTTKTT_Buoi4.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\PTTKTT_Buoi4.AssemblyInfoInputs.cache
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\PTTKTT_Buoi4.AssemblyInfo.cs
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\PTTKTT_Buoi4.csproj.CoreCompileInputs.cache
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\PTTKTT_Buoi4.dll
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\refint\PTTKTT_Buoi4.dll
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\PTTKTT_Buoi4.pdb
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\PTTKTT_Buoi4.genruntimeconfig.cache
+D:\PTTKTT_Buoi4\PTTKTT_Buoi4\obj\Debug\net8.0\ref\PTTKTT_Buoi4.dll

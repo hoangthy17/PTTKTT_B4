@@ -1,0 +1,14 @@
+D:\PTTKTT_Buoi4\Greedy_2\bin\Debug\net8.0\Greedy_2.exe
+D:\PTTKTT_Buoi4\Greedy_2\bin\Debug\net8.0\Greedy_2.deps.json
+D:\PTTKTT_Buoi4\Greedy_2\bin\Debug\net8.0\Greedy_2.runtimeconfig.json
+D:\PTTKTT_Buoi4\Greedy_2\bin\Debug\net8.0\Greedy_2.dll
+D:\PTTKTT_Buoi4\Greedy_2\bin\Debug\net8.0\Greedy_2.pdb
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\Greedy_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\Greedy_2.AssemblyInfoInputs.cache
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\Greedy_2.AssemblyInfo.cs
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\Greedy_2.csproj.CoreCompileInputs.cache
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\Greedy_2.dll
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\refint\Greedy_2.dll
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\Greedy_2.pdb
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\Greedy_2.genruntimeconfig.cache
+D:\PTTKTT_Buoi4\Greedy_2\obj\Debug\net8.0\ref\Greedy_2.dll
